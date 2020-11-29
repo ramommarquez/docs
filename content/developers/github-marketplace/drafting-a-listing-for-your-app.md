@@ -1,4 +1,4 @@
----
+O---
 title: Drafting a listing for your app
 intro: 'When you create a {% data variables.product.prodname_marketplace %} listing, GitHub saves it in draft mode until you submit the app for approval. Your listing shows customers how they can use your app.'
 redirect_from:
